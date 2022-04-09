@@ -1,0 +1,2 @@
+# Lofi-Music-Generator-
+In this project we will be building a model capable of generating notes and chords after learning from the dataset of songs we provide to our recurrent neural network and create songs. Before we start, let us recall few of the basic concepts and terminologies we will be using in this project and add to that knowledge the concepts required to successfully train our model to be an excellent composer.
