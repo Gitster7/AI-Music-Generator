@@ -25,3 +25,5 @@ In this project we will be building a model capable of generating notes and chor
 5. **Offset:** Where the note is located in the piece.
 
 6. **Lofi Hip/Hop:** Lo-fi Hip Hop refers to a subliminal genre of music that fuses traditional hip-hop and jazz elements to create an atmospheric, soothing, instrumental soundscape. It is characterized by the high-utilization of elements such as introspection, mellow tunes, and Japanese anime.
+
+%[https://soundcloud.com/user-467169078/ai-lofi?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing]
