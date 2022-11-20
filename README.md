@@ -22,7 +22,7 @@ In this project we will be building a model capable of generating notes and chor
 
 4. **Octave:** Which set of pitches you use on a piano.
 
-5. **Offset:** Where the note is located in the piece.
+5. **Offset:** Where the note is located in the piece. 
 
 6. **Lofi Hip/Hop:** Lo-fi Hip Hop refers to a subliminal genre of music that fuses traditional hip-hop and jazz elements to create an atmospheric, soothing, instrumental soundscape. It is characterized by the high-utilization of elements such as introspection, mellow tunes, and Japanese anime.
 
