@@ -2,6 +2,8 @@
 
 In this project we will be building a model capable of generating notes and chords after learning from the dataset of songs we provide to our recurrent neural network and create songs. Before we start, let us recall few of the basic concepts and terminologies we will be using in this project and add to that knowledge the concepts required to successfully train our model to be an excellent composer.
 
+![alt text](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgQUkgTXVzaWMgR2VuZXJhdG9yCgpFeHRyYWN0IE5vdGVzLT5DcmVhdGUgU2VxdWVuY2U6IFBhc3MgAB4HZWQAIQYgdG8gABoPCm5vdGUgbGVmdCBvZgAoCABPBjoABgluADgFZnJvbSBtaWRpIGZpbGVzLgAtDgBwEQCBCwdJbnB1dCBhbmQgT3V0cHV0IHMAgRwHcyBmb3IgUk5OIE1vZGVsLgoAgTQPIC0-ABQKAIFJB1RyYWluaW5nAIFfCQCBTgVvdQBCBm0AQgYASgktPgA1CwBgBQA3CmZvciAxMDAgZXBvY2hzACgNAIJeB2UAgX4IAAYKZXcAgmkGAIIvBm92ZXIAEgsAFRggdXNpbmcgdHJhaW5lZACBZQwAWw4AgzsJAIJZCjoAg08HYQB2BQCCcgkAgnMHAHsFACISIEVuc2VtYmxlAIITBWcAgUYHZACDPgd0byBjAE0Ic29uZwCCbgkAg08KLT5TdHJlYW0gU29uZzogSG9zdAA8D3Nvbmcgb24gU3BvdGlmeQphY3RvcgAGCCBVc2VyCgA4Cy0-AA4MOiAAVwcAhU0FCgCCQAsAGA5Vc2VyIGNhbiBsaXN0ZW4gdG8gdGgAhgYFAIMYCGQAgRwFIG9uIHMAgQIGLgoK&s=omegapple)
+
 ## Basic Terminologies
 
 1. **Recurrent Neural Networks (RNN):** A recurrent neural network is a class of artificial neural networks that make use of sequential information. They are called recurrent because they perform the same function for every single element of a sequence, with the result being dependent on previous computations.
