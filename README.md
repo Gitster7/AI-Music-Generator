@@ -30,4 +30,4 @@ In this project we will be building a model capable of generating notes and chor
 
 
 ### AI Generated Song:
-<a href="https://soundcloud.com/user-467169078/ai-lofi?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://soundcloud.com/user-467169078/ai-lofi?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" alt="AI Song"></a>
+<a href="https://soundcloud.com/user-467169078/ai-lofi?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://github.com/Gitster7/AI-Music-Generator/blob/main/Music.png" alt="AI Song"></a>
